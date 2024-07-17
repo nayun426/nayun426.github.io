@@ -9,14 +9,14 @@
         {
             "name": "일진",
             "title": "일진상",
-            "explain": "무서운 얼굴입니다.",
+            "explain": "무서운 얼굴입니다",
             "celeb": "",
             "color": "rgba(27, 175, 234, 1)"
         },
         {
             "name": "찐따",
             "title": "찐따상",
-            "explain": "무섭지 않은 얼굴입니다.",
+            "explain": "무섭지 않은 얼굴입니다",
             "celeb": "",
             "color": "rgba(251, 176, 59, 1)"
         }    
